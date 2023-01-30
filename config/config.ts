@@ -6,8 +6,6 @@ export default defineConfig({
   model: {},
   initialState: {},
   request: {},
-  layout: {
-    title: 'hello umi',
-  },
+  layout: false,
   npmClient: 'pnpm',
 });

@@ -6,11 +6,13 @@ export async function getInitialState(): Promise<{ name: string }> {
   return { name: '@umijs/max' };
 }
 
-export const layout = () => {
-  return {
-    logo: 'https://img.alicdn.com/tfs/TB1YHEpwUT1gK0jSZFhXXaAtVXa-28-27.svg',
-    menu: {
-      locale: false,
-    },
-  };
-};
+// 已经关闭了config.ts中的layout属性，所以这里不生效
+// export const layout = () => {
+//   return {
+//     title:'hello umi',
+//     logo: 'https://img.alicdn.com/tfs/TB1YHEpwUT1gK0jSZFhXXaAtVXa-28-27.svg',
+//     menu: {
+//       locale: false,
+//     },
+//   };
+// };
