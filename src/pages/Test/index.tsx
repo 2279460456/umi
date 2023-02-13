@@ -1,7 +1,8 @@
 import React from 'react';
+import RichTextEditor from './component/RichTextEditor';
 
 const Predict: React.FC = () => {
-  return <div>123</div>;
+  return <RichTextEditor></RichTextEditor>;
 };
 
 export default Predict;

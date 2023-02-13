@@ -15,7 +15,8 @@
     "@ant-design/icons": "^4.7.0",
     "@ant-design/pro-components": "^2.0.1",
     "@umijs/max": "^4.0.47",
-    "antd": "^5.0.0"
+    "antd": "^5.0.0",
+    "react-quill": "^2.0.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5",
