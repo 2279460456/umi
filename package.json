@@ -16,7 +16,9 @@
     "@ant-design/pro-components": "^2.0.1",
     "@umijs/max": "^4.0.47",
     "antd": "^5.0.0",
-    "react-quill": "^2.0.0"
+    "react-quill": "^2.0.0",
+    "three": "0.149.0",
+    "three-js": "^79.0.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5",

@@ -20,6 +20,8 @@ specifiers:
   prettier-plugin-organize-imports: ^2
   prettier-plugin-packagejson: ^2
   react-quill: ^2.0.0
+  three: ^0.149.0
+  three-js: ^79.0.0
   ts-node: ^10
   typescript: ^4
 
@@ -29,6 +31,8 @@ dependencies:
   '@umijs/max': 4.0.47_7w7jlbjb4m2wrwwvflel5ip5r4
   antd: 5.1.6
   react-quill: 2.0.0
+  three: 0.149.0
+  three-js: 79.0.0
 
 devDependencies:
   '@testing-library/jest-dom': 5.16.5
@@ -11659,6 +11663,15 @@ packages:
     resolution: {integrity: sha512-UkEhKIg2pD+fjkHQKyJO3yoIvAP3N6RlNFt2dUhcS1FGvCD1cQa1M/PGknCLFIyZdtJOWQjejp7bdNqmN7zwdA==}
     dependencies:
       real-require: 0.1.0
+    dev: false
+
+  /three-js/79.0.0:
+    resolution: {integrity: sha512-/jBULzQlazCXEh1OXFRg9gTcKcPvYYGkEC7ebCJGf4zBS3uHTO7KH3hKFtgYrT0m8jizce5Ews/2jkkmt5xBmw==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+    dev: false
+
+  /three/0.149.0:
+    resolution: {integrity: sha512-tohpUxPDht0qExRLDTM8sjRLc5d9STURNrdnK3w9A+V4pxaTBfKWWT/IqtiLfg23Vfc3Z+ImNfvRw1/0CtxrkQ==}
     dev: false
 
   /throttle-debounce/5.0.0:
