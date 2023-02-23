@@ -26,6 +26,11 @@ const menus = {
       name: 'Test',
       icon: <SmileFilled />,
     },
+    {
+      path: '/threejs',
+      name: 'Threejs',
+      icon: <SmileFilled />,
+    },
   ],
 };
 
